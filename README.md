@@ -23,6 +23,9 @@ Each system has multiple speed levels that can be changed during gameplay.
 1. Download the latest release of **TimeMaster**.
 2. Extract the `TimeMaster` folder.
 3. Place the folder inside your Bannerlord `Modules` directory.
+4. Make sure Harmony is installed.
+
+⚠️ Attention: The Harmony mod is required for TimeMaster to work properly.
 
 The final structure should look similar to:
 
@@ -32,10 +35,10 @@ Mount & Blade II Bannerlord/
     └── TimeMaster/
 ```
 
-4. Launch **Mount & Blade II: Bannerlord**.
-5. Open the Bannerlord launcher.
-6. Enable **TimeMaster**.
-7. Start the game.
+5. Launch **Mount & Blade II: Bannerlord**.
+6. Open the Bannerlord launcher.
+7. Enable **TimeMaster**.
+8. Start the game.
 
 ## Configuration
 
